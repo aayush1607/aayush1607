@@ -1,6 +1,6 @@
 ### Hello,I'm Aayush Chodvadiya 👋
 
-- 🔭 I’m currently working from Home.
+- 🔭 I’m currently working on Placement Management System, Android app, Cp-Trackers Website and much more.
 - 🌱 I’m currently learning Backend Development and Android Development.
 - 👯 I’m looking to collaborate on Web Development.
 - 💬 Ask me about whatever you want!

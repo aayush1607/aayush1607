@@ -15,7 +15,7 @@
           tryagain();
     } 
 ```
-  [![Aayush's github stats](https://github-readme-stats.vercel.app/api?username=aayush1607&show_icons=true&theme=highcontrast)]            
+  ![Aayush's github stats](https://github-readme-stats.vercel.app/api?username=aayush1607&show_icons=true&theme=highcontrast)            
 <!--
 **aayush1607/aayush1607** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

@@ -11,7 +11,7 @@
 
 - 🤔 I’m looking for help with **Android Development**
 
-- 👨‍💻 All of my projects are available at [https://aayush1607.github.io/](https://aayush1607.github.io/)
+- 👨‍💻 All of my projects are available at [My Portfolio](https://aayush1607.github.io/Portfolio/)
 
 - 💬 Ask me about **whatever you want!**
 

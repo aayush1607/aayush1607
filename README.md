@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aayush Chodvadiya</h1>
 <h3 align="center">A passionate programmer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aayush1607" alt="aayush1607" /> </p>
+
 
 - 🔭 I’m currently working on [Cp-Tracks Website.](https://cp-tracker.github.io/CP-Tracker-Frontend/)
 

@@ -20,16 +20,58 @@
 - ⚡ Fun fact **It is easier for me to stay awake until 5 am than to wake up at 5 am.**
 
 <!--START_SECTION_PROFILE_VIEWS:readme-info-->
+**✨ 5 people were here!**
+
+
 <!--END_SECTION_PROFILE_VIEWS:readme-info-->
 <!--START_SECTION_LINES_OF_CODE:readme-info-->
+**From Hello World I have written 125317 Lines of Code ✍️**
+
+
 <!--END_SECTION_LINES_OF_CODE:readme-info-->
 <!--START_CONTRIBUTIONS:readme-info-->
+🏆 189 Contributions in year 2020
+
+
 <!--END_CONTRIBUTIONS:readme-info-->
 <!--START_SECTION_DAILY_COMMIT:readme-info-->
+**I'm a night 🦉** 
+
+```text
+🌞 Morning    34 commits     █████░░░░░░░░░░░░░░░░░░░░   23.45% 
+🌆 Daytime    36 commits     ██████░░░░░░░░░░░░░░░░░░░   24.83% 
+🌃 Evening    75 commits     █████████████░░░░░░░░░░░░   51.72% 
+🌙 Night      0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
+
+```
+
 <!--END_SECTION_DAILY_COMMIT:readme-info-->
 <!--START_SECTION_WEEKLY_COMMIT:readme-info-->
+📅 **I'm Most Productive on Saturdays** 
+
+```text
+Monday       3 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   2.22% 
+Tuesday      9 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   6.67% 
+Wednesday    10 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   7.41% 
+Thursday     23 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.04% 
+Friday       28 commits     █████░░░░░░░░░░░░░░░░░░░░   20.74% 
+Saturday     40 commits     ███████░░░░░░░░░░░░░░░░░░   29.63% 
+Sunday       22 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.3%
+```
+
 <!--END_SECTION_WEEKLY_COMMIT:readme-info-->
 <!--START_SECTION_LANGUAGE:readme-info-->
+**My 💖 languages JavaScript** 
+
+```text
+JavaScript               6 repos             ██████████░░░░░░░░░░░░░░░   42.86% 
+Python                   2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   14.29% 
+CSS                      2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   14.29% 
+HTML                     2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   14.29% 
+C++                      1 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   7.14% 
+PHP                      1 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   7.14%
+```
+
 <!--END_SECTION_LANGUAGE:readme-info-->
 
 

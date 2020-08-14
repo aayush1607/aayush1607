@@ -19,7 +19,7 @@
 
 - ⚡ Fun fact **It is easier for me to stay awake until 5 am than to wake up at 5 am.**
 
-<!--START_SECTION_PROFILE_VIEWS:readme-info
+START_SECTION_PROFILE_VIEWS:readme-info
 END_SECTION_PROFILE_VIEWS:readme-info
 START_SECTION_LINES_OF_CODE:readme-info
 END_SECTION_LINES_OF_CODE:readme-info
@@ -31,7 +31,7 @@ START_SECTION_WEEKLY_COMMIT:readme-info
 END_SECTION_WEEKLY_COMMIT:readme-info
 START_SECTION_LANGUAGE:readme-info
 END_SECTION_LANGUAGE:readme-info
--->
+
 
 
 ```

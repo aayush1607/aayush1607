@@ -30,47 +30,49 @@
 
 <!--END_SECTION_LINES_OF_CODE:readme-info-->
 <!--START_CONTRIBUTIONS:readme-info-->
-🏆 200 Contributions in year 2020
+**🏆 201 Contributions in year 2020**
 
 
 <!--END_CONTRIBUTIONS:readme-info-->
 <!--START_SECTION_DAILY_COMMIT:readme-info-->
 **I'm a night 🦉** 
 
-```text
-🌞 Morning    35 commits     █████░░░░░░░░░░░░░░░░░░░░   22.88% 
-🌆 Daytime    40 commits     ██████░░░░░░░░░░░░░░░░░░░   26.14% 
-🌃 Evening    77 commits     ████████████░░░░░░░░░░░░░   50.33% 
-🌙 Night      1 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.65%
-
-```
+| | | | |
+| --- | --- | --- | --- |
+|🌞 Morning                |36 commits          |![](https://via.placeholder.com/92x22/000000/000000?text=+)![](https://via.placeholder.com/308x22/b8b8b8/b8b8b8?=text=+)|23.38%|
+|🌆 Daytime                |40 commits          |![](https://via.placeholder.com/104x22/000000/000000?text=+)![](https://via.placeholder.com/296x22/b8b8b8/b8b8b8?=text=+)|25.97%|
+|🌃 Evening                |77 commits          |![](https://via.placeholder.com/200x22/000000/000000?text=+)![](https://via.placeholder.com/200x22/b8b8b8/b8b8b8?=text=+)|50.0%|
+|🌙 Night                  |1 commits           |![](https://via.placeholder.com/4x22/000000/000000?text=+)![](https://via.placeholder.com/396x22/b8b8b8/b8b8b8?=text=+)|0.65%|
+| | | | |
 
 <!--END_SECTION_DAILY_COMMIT:readme-info-->
 <!--START_SECTION_WEEKLY_COMMIT:readme-info-->
 📅 **I'm Most Productive on Saturdays** 
 
-```text
-Monday       3 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   2.1% 
-Tuesday      9 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   6.29% 
-Wednesday    10 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.99% 
-Thursday     23 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.08% 
-Friday       30 commits     █████░░░░░░░░░░░░░░░░░░░░   20.98% 
-Saturday     45 commits     ███████░░░░░░░░░░░░░░░░░░   31.47% 
-Sunday       23 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.08%
-```
+| | | | |
+| --- | --- | --- | --- |
+|Monday                   |4 commits           |![](https://via.placeholder.com/12x22/000000/000000?text=+)![](https://via.placeholder.com/388x22/b8b8b8/b8b8b8?=text=+)|2.78%|
+|Tuesday                  |9 commits           |![](https://via.placeholder.com/24x22/000000/000000?text=+)![](https://via.placeholder.com/376x22/b8b8b8/b8b8b8?=text=+)|6.25%|
+|Wednesday                |10 commits          |![](https://via.placeholder.com/28x22/000000/000000?text=+)![](https://via.placeholder.com/372x22/b8b8b8/b8b8b8?=text=+)|6.94%|
+|Thursday                 |23 commits          |![](https://via.placeholder.com/64x22/000000/000000?text=+)![](https://via.placeholder.com/336x22/b8b8b8/b8b8b8?=text=+)|15.97%|
+|Friday                   |30 commits          |![](https://via.placeholder.com/84x22/000000/000000?text=+)![](https://via.placeholder.com/316x22/b8b8b8/b8b8b8?=text=+)|20.83%|
+|Saturday                 |45 commits          |![](https://via.placeholder.com/124x22/000000/000000?text=+)![](https://via.placeholder.com/276x22/b8b8b8/b8b8b8?=text=+)|31.25%|
+|Sunday                   |23 commits          |![](https://via.placeholder.com/64x22/000000/000000?text=+)![](https://via.placeholder.com/336x22/b8b8b8/b8b8b8?=text=+)|15.97%|
+| | | | |
 
 <!--END_SECTION_WEEKLY_COMMIT:readme-info-->
 <!--START_SECTION_LANGUAGE:readme-info-->
 **My 💖 languages JavaScript** 
 
-```text
-JavaScript               6 repos             ██████████░░░░░░░░░░░░░░░   42.86% 
-Python                   2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   14.29% 
-CSS                      2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   14.29% 
-HTML                     2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   14.29% 
-C++                      1 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   7.14% 
-PHP                      1 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   7.14%
-```
+| | | | |
+| --- | --- | --- | --- |
+|JavaScript               |6 repos|             ![](https://via.placeholder.com/172x22/000000/000000?text=+)![](https://via.placeholder.com/228x22/b8b8b8/b8b8b8?=text=+)|42.86%|
+|Python                   |2 repos|             ![](https://via.placeholder.com/56x22/000000/000000?text=+)![](https://via.placeholder.com/344x22/b8b8b8/b8b8b8?=text=+)|14.29%|
+|CSS                      |2 repos|             ![](https://via.placeholder.com/56x22/000000/000000?text=+)![](https://via.placeholder.com/344x22/b8b8b8/b8b8b8?=text=+)|14.29%|
+|HTML                     |2 repos|             ![](https://via.placeholder.com/56x22/000000/000000?text=+)![](https://via.placeholder.com/344x22/b8b8b8/b8b8b8?=text=+)|14.29%|
+|C++                      |1 repos|             ![](https://via.placeholder.com/28x22/000000/000000?text=+)![](https://via.placeholder.com/372x22/b8b8b8/b8b8b8?=text=+)|7.14%|
+|PHP                      |1 repos|             ![](https://via.placeholder.com/28x22/000000/000000?text=+)![](https://via.placeholder.com/372x22/b8b8b8/b8b8b8?=text=+)|7.14%|
+| | | | |
 
 <!--END_SECTION_LANGUAGE:readme-info-->
 

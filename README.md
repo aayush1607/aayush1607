@@ -3,7 +3,7 @@
 
 
 
-- 🔭 I’m currently working on [Cp-Tracks Website.](https://cp-tracker.github.io/CP-Tracker-Frontend/)
+- 🔭 I’m currently working with my friends [Jainam](https://github.com/th3c0d3br34ker) and [Harsh](https://github.com/harshkanani014) on [Cp-Tracks Website.](https://deploy-preview-5--cp-tracker.netlify.app/#/) 
 
 - 🌱 I’m currently learning **PhP, Backend Development and Android Development.**
 

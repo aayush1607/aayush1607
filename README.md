@@ -18,7 +18,7 @@
 - ⚡ Fun fact **It is easier for me to stay awake until 5 am than to wake up at 5 am.**
 
 
-    
+    <img src="./onmyway.gif" align="right" alt="On My Way!" width="200" height="200">
 
 ```
     while(noSuccess)
@@ -27,10 +27,18 @@
     } 
 ```
 
+
 <p align="left"><img src="https://github-readme-stats.vercel.app/api?username=aayush1607&show_icons=true&theme=highcontrast" alt="aayush1607" /> </p>
 
+![Python](https://img.shields.io/badge/-Python-black?style=for-the-badge&logo=Python)
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javascript)
+![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=for-the-badge&logo=bootstrap)
+
 <p align="center">
-    
+
  
  
 <a href="https://linkedin.com/in/aayush-chodvadiya" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="aayush-chodvadiya" height="20" width="20" /></a>

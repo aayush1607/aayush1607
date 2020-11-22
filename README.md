@@ -18,7 +18,7 @@
 - ⚡ Fun fact **It is easier for me to stay awake until 5 am than to wake up at 5 am.**
 
 
-
+<img src="clip-programming.png" align="center" height="300px" width="400px">
 
 
 

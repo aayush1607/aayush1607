@@ -18,14 +18,8 @@
 - ⚡ Fun fact **It is easier for me to stay awake until 5 am than to wake up at 5 am.**
 
 
-    <img src="./onmyway.gif" align="right" alt="On My Way!" width="200" height="200">
 
-```
-    while(noSuccess)
-    {
-          tryagain();
-    } 
-```
+
 
 
 <p align="left"><img src="https://github-readme-stats.vercel.app/api?username=aayush1607&show_icons=true&theme=highcontrast" alt="aayush1607" /> </p>

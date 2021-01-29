@@ -7,8 +7,6 @@
 
 - 🌱 I’m currently learning **Backend and trying to explore ML as well.**
 
-- 🤔 I’m looking for help with **NLP**
-
 - 👨‍💻 All of my projects are available at [My Portfolio](https://aayush1607.github.io/Portfolio/)
 
 - 💬 Ask me about **whatever you want!**

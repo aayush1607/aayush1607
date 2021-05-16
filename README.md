@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Aayush Chodvadiya</h1>
-<h3 align="center">A passionate programmer from India</h3>
+<h3 align="center">A passionate programmer</h3>
 
 
 
-- 🔭 I’m currently working with my friends [Jainam](https://github.com/th3c0d3br34ker) and [Harsh](https://github.com/harshkanani014) on [Cp-Tracks Website.](https://cp-tracks.netlify.app/#/) 
+
 
 - 🌱 I’m currently learning **Backend and trying to explore ML as well.**
 

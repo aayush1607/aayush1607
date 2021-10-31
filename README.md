@@ -17,7 +17,7 @@
 - ⚡ Fun fact **It is easier for me to stay awake until 5 am than to wake up at 5 am.**
 
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=aayush1607&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&count_private=true" alt="aayush1607" />   &nbsp &nbsp <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aayush1607&layout=compact&langs_count=8&exclude_repo=deepfake_detection,Student-Faculty-Interaction-Portal&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" alt="aayush1607" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aayush1607&layout=compact&langs_count=8&exclude_repo=deepfake_detection,Student-Faculty-Interaction-Portal&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" alt="aayush1607" /> &nbsp &nbsp <img src="https://github-readme-stats.vercel.app/api?username=aayush1607&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&count_private=true" alt="aayush1607" />  </p>
 
 
 ### Languages and Tools:

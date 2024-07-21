@@ -6,11 +6,9 @@
 
 
 
-- 🌱 I’m currently learning **Backend and trying to explore ML as well.**
-
 - 👨‍💻 All of my projects are available at [My Portfolio](https://aayush1607.github.io/Portfolio/)
 
-- 💬 Ask me about **whatever you want!**
+- 💬 Ask me about **Python, Django**
 
 - 📫 How to reach me **auc1607@gmail.com**
 

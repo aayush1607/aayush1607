@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Aayush Chodvadiya</h1>
-<h3 align="center">A passionate programmer</h3>
 <p align="center"><img src="https://img.shields.io/github/followers/aayush1607.svg?style=social&label=Follow&maxAge=2592000" alt="aayush1607" /> </p>
 
 
